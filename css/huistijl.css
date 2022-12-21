@@ -23,3 +23,10 @@
   .carousel-item > img {
     max-height: 200px;
   }
+  .carousel-width {
+    width: 300px;
+}
+.iframeopmaak {
+  width: 400px;
+  height: 350px;
+}
